@@ -1,0 +1,8 @@
+{
+  "name": "CITARA — The Urban Sanctuary",
+  "description": "CITARA is The Urban Sanctuary in Nusantara—where nature, culture, and future are woven into a new way of living.",
+  "requestFramePermissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
